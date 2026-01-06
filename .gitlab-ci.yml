@@ -2,6 +2,6 @@ stages:
   - hello
 
 hello:
-  stage: Say hello world
+  stage: hello
   script:
     - echo "Hello World"
